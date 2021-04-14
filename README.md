@@ -1,6 +1,6 @@
 ### Hi there, I'm Pearl 👋
 
-I graduated from the University of Birmingham in 2018 with a B.A. Modern Languages(French & Spanish) with Business Management. 
++ B.A. Modern Languages(French & Spanish) with Business Management
 
 [![Pearl's GitHub stats](https://github-readme-stats.vercel.app/api?username=pearlhamilton)](https://github.com/pearlhamilton/github-readme-stats)
 
