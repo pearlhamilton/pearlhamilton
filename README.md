@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Pearl's GitHub stats](https://github-readme-stats.vercel.app/api?pearlhamilton)](https://github.com/pearlhamilton/github-readme-stats)
+[![Pearl's GitHub stats](https://github-readme-stats.vercel.app/api?username=pearlhamilton)](https://github.com/pearlhamilton/github-readme-stats)
 
 
 
