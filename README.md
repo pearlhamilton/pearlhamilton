@@ -1,9 +1,12 @@
 ### Hi there 👋
 
+[![Pearl's GitHub stats](https://github-readme-stats.vercel.app/api?pearlhamilton)](https://github.com/pearlhamilton/github-readme-stats)
+
+
+
 <!--
 **pearlhamilton/pearlhamilton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?pearlhamilton)](https://github.com/pearlhamilton/github-readme-stats)
 
 
 
