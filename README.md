@@ -2,7 +2,7 @@
 
 [![Pearl's GitHub stats](https://github-readme-stats.vercel.app/api?username=pearlhamilton)](https://github.com/pearlhamilton/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pearlhamilton&layout=compact)](https://github.com/pearlhamilton/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pearlhamilton)](https://github.com/pearlhamilton/github-readme-stats)
 
 
 
