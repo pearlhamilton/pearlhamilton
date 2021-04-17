@@ -1,5 +1,7 @@
 ### Hi there, I'm Pearl 👋
 
+👩‍💻
+
 B.A. Modern Languages(French & Spanish) with Business Management
 
 [![Pearl's GitHub stats](https://github-readme-stats.vercel.app/api?username=pearlhamilton)](https://github.com/pearlhamilton/github-readme-stats)
