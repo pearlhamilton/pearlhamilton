@@ -1,6 +1,6 @@
 ### Hi there, I'm Pearl 👋
 
-👩‍💻  Currently a trainee full stack developer at Futureproof
+👩‍💻  Trainee Full Stack Developer at Futureproof
 
 🎓  B.A. Modern Languages(French & Spanish) with Business Management
 
