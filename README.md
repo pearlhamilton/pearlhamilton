@@ -1,8 +1,15 @@
 ### Hi there, I'm Pearl 👋
 
-👩‍💻
+👩‍💻 Currently a trainee full stack developer at Futureproof
 
-B.A. Modern Languages(French & Spanish) with Business Management
+🎓 B.A. Modern Languages(French & Spanish) with Business Management
+
+💼 Previous experience working in customer success and account management in startups and travel and events industry
+
+:bulb: Always keen to learn more and develop my coding skills 
+
+
+
 
 [![Pearl's GitHub stats](https://github-readme-stats.vercel.app/api?username=pearlhamilton)](https://github.com/pearlhamilton/github-readme-stats)
 
