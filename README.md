@@ -1,6 +1,6 @@
-<p style="text-align: center;">
 
 <img src="https://github.com/pearlhamilton/pearlhamilton/blob/main/header_github.png">
+<div align="center">
 
 
 👩‍💻  Trainee Full Stack Developer at Futureproof
@@ -20,4 +20,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pearlhamilton)](https://github.com/pearlhamilton/github-readme-stats)
 
-</p>
+</div>
