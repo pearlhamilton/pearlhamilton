@@ -1,7 +1,8 @@
 
 
-<div align=”center”> 
 <img src="https://github.com/pearlhamilton/pearlhamilton/blob/main/header_github.png">
+  
+<div align=”center”> 
 
 👩‍💻  Trainee Full Stack Developer at Futureproof
 
