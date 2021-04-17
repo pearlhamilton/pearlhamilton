@@ -8,7 +8,7 @@
 
 :bulb: Always keen to learn more and develop my coding skills 
 
-:airplane: + :cat: + :coffee: + :seedling: make me happy
+:airplane: + :cat: + :coffee: + :seedling: = happiness 
 
 
 
