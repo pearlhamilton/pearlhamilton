@@ -1,4 +1,3 @@
-<img src="https://github.com/pearlhamilton/pearlhamilton/blob/main/header.png">
 
 👩‍💻  Trainee Full Stack Developer at Futureproof
 
