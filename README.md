@@ -3,7 +3,7 @@
 <div align="center">
 
 
-👩‍💻  Trainee Full Stack Developer at Futureproof
+👩‍💻  Trainee Full Stack Developer at [Futureproof](https://getfutureproof.co.uk/)
 
 🎓  B.A. Modern Languages(French & Spanish) with Business Management
 
