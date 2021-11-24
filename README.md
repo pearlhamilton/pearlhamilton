@@ -3,7 +3,8 @@
 <div align="center">
 
 
-👩‍💻  Trainee Full Stack Developer at [Futureproof](https://getfutureproof.co.uk/)
+👩‍💻  Web Developer at [Kingfisher plc] (https://www.kingfisher.com/en/index.html)
+💻  Previously Trainee Full Stack Developer at [Futureproof](https://getfutureproof.co.uk/)
 
 🎓  B.A. Modern Languages(French & Spanish) with Business Management
 
@@ -21,3 +22,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pearlhamilton)](https://github.com/pearlhamilton/github-readme-stats)
 
 </div>
+v
