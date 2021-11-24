@@ -3,7 +3,7 @@
 <div align="center">
 
 
-👩‍💻  Web Developer at [Kingfisher plc] (https://www.kingfisher.com/en/index.html)
+👩‍💻  Web Developer at [Kingfisher plc](https://www.kingfisher.com/en/index.html)
 💻  Previously Trainee Full Stack Developer at [Futureproof](https://getfutureproof.co.uk/)
 
 🎓  B.A. Modern Languages(French & Spanish) with Business Management
